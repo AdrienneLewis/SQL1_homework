@@ -1,2 +1,1 @@
-# SQL1_homework
-SQL homework for Data Bootcamp
+This project showcases the use of SQL to manage and query an actor database. 
